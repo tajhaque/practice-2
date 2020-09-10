@@ -50,8 +50,8 @@ section{
 }
 
 .single-experienc{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 3px;
+    box-shadow: 3px 3px 20px lightgray;
+    border-radius: 10px;
     height: 60%;
     background-color: white;
 }
@@ -59,6 +59,9 @@ section{
     background-image: url(picture/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+ }
+ .experience-area p{
+     padding-right: 30px;
  }
  #full-stack{
      border-left: 7px solid;
